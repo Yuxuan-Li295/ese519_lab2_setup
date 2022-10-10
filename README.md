@@ -52,7 +52,22 @@ We can follow the following steps to configure our PC:
    #**Installing the C SDK**
 
    The next step involves installing the C SDK onto the Adafruit QT Py board. The following PDF is a extremely helpful guide for this part:https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf. For my instruction, I have omitted the unnecessary instruction for the Pico breakout board and mainly focus on the RP2040 board for the lab purpose. 
-   
+For this first part, you can start with the board unplugged. In your terminal input the following commands to create a new folder on your computer in a specific location by your preference. 
+
+```
+cd ~/
+mkdir pico
+cd pico
+```
+From here we will need to clone the pico-sdk and pico-examples git repositories.
+```
+git clone -b master https://github.com/raspberrypi/pico-sdk.git
+cd pico-sdk
+git submodule update --init
+cd ..
+git clone -b master https://github.com/raspberrypi/pico-examples.git
+```
+
    6. **Building "Hello World" From the Command Line**
    
    
