@@ -146,7 +146,8 @@ cd D:\ESE519\PreLab2
 New-Item -Path "D:\ESE519\PreLab2" -Name "testfile1.txt
 cat testfile.txt
 ```  
-## Summary
-    For the serial monitor part, I personallly recommend using the Putty tool which has strightforward setting proces and pay attention to the port #number when configure the serial console and if the text editor and the command line is a lit bit hard for you. For this lab purpose, it is also acceptable for us using the high level folder directly as a visulaziation.
+## Summary  
+    
+For the serial monitor part, I personallly recommend using the Putty tool which has strightforward setting proces and pay attention to the port #number when configure the serial console and if the text editor and the command line is a lit bit hard for you. For this lab purpose, it is also acceptable for us using the high level folder directly as a visulaziation.
     
 
