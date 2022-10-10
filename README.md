@@ -82,8 +82,10 @@ The default installation settings are pretty good for the purpose of this lab al
     The Windows Device Manager is the tool chosen to determine which port the board is using. As shown in the below picture, click on Ports(COM & LPT) option, we can see the (C0M#) number corresponding to your device(Remeber to put your device connect to your laptop via MicroUSB cable).  
     
    ![alt text](https://github.com/Yuxuan-Li295/ese519_lab2_setup/blob/main/Media/Device_Connection.jpg)
-   ![alt text](https://github.com/Yuxuan-Li295/ese519_lab2_setup/blob/main/Media/Device_Manager.PNG)
-    
+   ![alt text](https://github.com/Yuxuan-Li295/ese519_lab2_setup/blob/main/Media/Device_Manager.PNG)  
+    The next step is to open the software PuTTy and configure it as the following:  
+    (-In the box under the serial line, and enter the serial port that you found your board is using)
+    ![alt text](https://github.com/Yuxuan-Li295/ese519_lab2_setup/blob/main/Media/PUTTY_SETTING.PNG)
     
 ## Setting Up a Text Editor
 
