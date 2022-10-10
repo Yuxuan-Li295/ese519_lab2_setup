@@ -74,9 +74,10 @@ Wait until the building process is completed(This may take some time...)
     PUTTY can be assessed and download through [putty](https://www.putty.org/) and open up the installer once the download process is over. 
     ![alt text](https://github.com/Yuxuan-Li295/ese519_lab2_setup/blob/main/Media/PUTTY_INSTALLER.PNG)
     
-The default installation settings are pretty good for the purpose of this lab already:
+The default installation settings are pretty good for the purpose of this lab already:  
     
-     ![alt text](https://github.com/Yuxuan-Li295/ese519_lab2_setup/blob/main/Media/PUTTY_INSTALL_DEFAULT.PNG)
+    
+   ![alt text](https://github.com/Yuxuan-Li295/ese519_lab2_setup/blob/main/Media/PUTTY_INSTALL_DEFAULT.PNG)
     
 ## Setting Up a Text Editor
 
