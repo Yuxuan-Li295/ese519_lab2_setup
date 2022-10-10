@@ -122,7 +122,8 @@ After that, the board will appear as an external driver and we can just drag and
 ![alt text](https://github.com/Yuxuan-Li295/ese519_lab2_setup/blob/main/Media/RPI.PNG)
 
  Notes:
-- Keep in the mind to hold down the ''BOOT'' button while uploading code to the Python version.
+- Keep in the mind to hold down the ''BOOT'' button while uploading code to the Python version.  
+    
 -Pay attention to the instruction version, if you computer has Windows System, do not work on version for 'macOS' or 'Linux'!
 
     
