@@ -79,6 +79,11 @@ The default installation settings are pretty good for the purpose of this lab al
     
    ![alt text](https://github.com/Yuxuan-Li295/ese519_lab2_setup/blob/main/Media/PUTTY_INSTALL_DEFAULT.PNG)
     
+    The Windows Device Manager is the tool chosen to determine which port the board is using. As shown in the below picture, click on Ports(COM & LPT) option, we can see the (C0M#) number corresponding to your device(Remeber to put your device connect to your laptop via MicroUSB cable).
+    ![alt text](https://github.com/Yuxuan-Li295/ese519_lab2_setup/blob/main/Media/Device_Connection.jpg)
+    ![alt text](https://github.com/Yuxuan-Li295/ese519_lab2_setup/blob/main/Media/Device_Manager.PNG)
+    
+    
 ## Setting Up a Text Editor
 
 After the terminal setup, the two first command I am used are “ls” and "cd". "ls" enable you to look over the folders that you navigate to and "cd****<File_Path>" enable you to navigate to the destination that you want to go.  
