@@ -118,7 +118,14 @@ The default installation settings are pretty good for the purpose of this lab al
 For this step, we just connect our RP2040 Raspberry Pi Pico to the computer via the Micro-USB and hold down the **BOOTSEL** button so that the USB will be forced into the USB Mass Storage Mode.   
 After that, the board will appear as an external driver and we can just drag and drop the binary file named as the ‘hello_usb.uf2’. Then the USB will disappear as the external drive and start running the import flashed code and we can see the following things happen in puTTY:
 ![alt text](https://github.com/Yuxuan-Li295/ese519_lab2_setup/blob/main/Media/Hello_World_Final_Setup.PNG)  
-    As seen from the above graph, the button on the opposite end of the board from the USB connector is the RST button. To enter the bootloader and create the drive that name start with teh RPI. To create that file we need to keep holding the 'BOOT'button in the plugging process of our USB and at the same time click the 'RESET' button for once and we can see the following drive shown:
+    As seen from the above graph, the button on the opposite end of the board from the USB connector is the RST button. To enter the bootloader and create the drive that name start with the RPI.  
+    There are two methods listed as follows:  
+    ###### Method 1: 
+To create that file we need to keep holding the 'BOOT'button in the plugging process of our USB and at the same time click the 'RESET' button for once.
+###### Method 2: 
+When plugging in, press and hold the BOOTSEL button (highlighted in red above),keep holding it while plugging it into USB, and wait for the drive to appear before releasing the button.  
+    Then, we can see the RPI drive shows:
+
 ![alt text](https://github.com/Yuxuan-Li295/ese519_lab2_setup/blob/main/Media/RPI.PNG)
 
  Notes:
