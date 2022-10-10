@@ -30,6 +30,8 @@ We can follow the following steps to configure our PC:
    4.  **Installing Python 3.10**
    
         [Latest Python 3 Release - Python 3.10.7](https://www.python.org/downloads/release/python-3107/) 
+        ![alt text](https://github.com/Yuxuan-Li295/ese519_lab2_setup/blob/main/Media/Install_Python.PNG) 
+        
         
    5. **Installing Git**
         
