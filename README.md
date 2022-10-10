@@ -48,7 +48,7 @@ We can follow the following steps to configure our PC:
    ![alt text](https://github.com/Yuxuan-Li295/ese5190-2022-lab2-into-the-void-star/blob/main/Media/Install_Git.PNG)
    
    ![alt text](https://github.com/Yuxuan-Li295/ese5190-2022-lab2-into-the-void-star/blob/main/Media/Git_Setup.PNG)
-   #Installing the C SDK**
+#Installing the C SDK**
    The next step involves installing the C SDK onto the Adafruit QT Py board. The following PDF is a extremely helpful guide for this part:https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf. For my instruction, I have omitted the unnecessary instruction for the Pico breakout board and mainly focus on the RP2040 board for the lab purpose. 
    
    6. **Building "Hello World" From the Command Line**
