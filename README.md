@@ -16,8 +16,10 @@ We can follow the following steps to configure our PC:
         
     This will help us complete the setup process of the ARM GNU Toolchain.
     
-   2. [**Cmake**](https://github.com/Kitware/CMake/releases/download/v3.24.2/cmake-3.24.2-windows-x86_64.msi)  
+   2. [**Cmake**](https://github.com/Kitware/CMake/releases/download/v3.24.2/cmake-3.24.2-windows-x86_64.msi) 
     
+   ![alt text](https://github.com/Yuxuan-Li295/ese519_lab2_setup/blob/main/Media/Install_Cmake.PNG) 
+
    ![alt text](https://github.com/Yuxuan-Li295/ese5190-2022-lab2-into-the-void-star/blob/main/Media/Install_CMake.PNG) 
 
 
