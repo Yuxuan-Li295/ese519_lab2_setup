@@ -36,6 +36,8 @@ We can follow the following steps to configure our PC:
    5. **Installing Git**
         
         Download git as: [64-bit Git for Windows Setup](https://github.com/git-for-windows/git/releases/download/v2.38.0.windows.1/Git-2.38.0-64-bit.exe) 
+        ![alt text](https://github.com/Yuxuan-Li295/ese519_lab2_setup/blob/main/Media/Install_Git.PNG)
+        
         
         Ensure you tick the checkbox to allow Git to be used from 3rd-party software and, when installing Git check the box "Checkout as is, commit as-is".  
         
