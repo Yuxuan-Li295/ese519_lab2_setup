@@ -120,7 +120,7 @@ After that, the board will appear as an external driver and we can just drag and
 ![alt text](https://github.com/Yuxuan-Li295/ese519_lab2_setup/blob/main/Media/Hello_World_Final_Setup.PNG)  
     As seen from the above graph, the button on the opposite end of the board from the USB connector is the RST button. To enter the bootloader and create the drive that name start with the RPI.  
     There are two methods listed as follows:  
-    ###### Method 1: 
+###### Method 1: 
 To create that file we need to keep holding the 'BOOT'button in the plugging process of our USB and at the same time click the 'RESET' button for once.
 ###### Method 2: 
 When plugging in, press and hold the BOOTSEL button (highlighted in red above),keep holding it while plugging it into USB, and wait for the drive to appear before releasing the button.  
