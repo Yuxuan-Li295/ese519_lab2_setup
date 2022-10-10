@@ -133,7 +133,7 @@ When plugging in, press and hold the BOOTSEL button (highlighted in red above),k
     
 - Pay attention to the instruction version, if you computer has Windows System, do not work on version for 'macOS' or 'Linux'!
 
-*** This marks the end of our basic setup, going forward we will be using this for programming the RP2040. ***
+***This marks the end of our basic setup, going forward we will be using this for programming the RP2040.***
 ## Setting Up a Text Editor
 
 After the terminal setup, the two first command I am used are “ls” and "cd". "ls" enable you to look over the folders that you navigate to and "cd****<File_Path>" enable you to navigate to the destination that you want to go.  
