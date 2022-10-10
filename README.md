@@ -69,7 +69,7 @@ Wait until the building process is completed(This may take some time...)
  ![alt text](https://github.com/Yuxuan-Li295/ese5190-2022-lab2-into-the-void-star/blob/main/Media/Access_Build_Uf2_Files.PNG)  
   
     
-**SERIAL CONSOLE – PUTTY.** <br />  
+**7. SERIAL CONSOLE – PUTTY.** <br />  
     While not the most *powerful* serial port software, putty does a good job and is a handy tool(telnet and ssh) and in my setup process, I choose it as my serial console.  
     PUTTY can be assessed and download through [putty](https://www.putty.org/) and open up the installer once the download process is over. 
     ![alt text](https://github.com/Yuxuan-Li295/ese519_lab2_setup/blob/main/Media/PUTTY_INSTALLER.PNG)
@@ -85,7 +85,10 @@ The default installation settings are pretty good for the purpose of this lab al
    ![alt text](https://github.com/Yuxuan-Li295/ese519_lab2_setup/blob/main/Media/Device_Manager.PNG)  
     The next step is to open the software PuTTy and configure it as the following:  
     (-In the box under the serial line, and enter the serial port that you found your board is using)
-    ![alt text](https://github.com/Yuxuan-Li295/ese519_lab2_setup/blob/main/Media/PUTTY_SETTING.PNG)
+    ![alt text](https://github.com/Yuxuan-Li295/ese519_lab2_setup/blob/main/Media/PUTTY_SETTING.PNG)  
+**8. Flashing the board and running the "hello-usb.c".** <br />  
+    
+    For this step, we just connect our RP2040 Raspberry Pi Pico to the computer via the Micro-USB and hold down the **BOOTSEL** button so that the USB will be forced into the USB Mass Storage Mode. 
     
 ## Setting Up a Text Editor
 
