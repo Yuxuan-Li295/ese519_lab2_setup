@@ -5,7 +5,7 @@ University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 2A
         liyux@seas.upenn.edu
         [Yuxuan's LinkedIn](https://www.linkedin.com/in/yuxuan-li-26511b203/)
     Tested on:  OMEN Laptop 15-ek0xxx, Windows-10 Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz   2.59 GHz
-## Setting Up Terminal
+## Setting Up for SDK on your Windows Machine for Raspberry Pi Pico.
 
 While I was using Windows Operating system, I prefer to use WindowsPowershell simply because of the ease of access.  
 Moreover, we need to follow the steps below to install the C/C++ SDK, using the repository for pico-examples and then run the "hello_usb.c" program.
