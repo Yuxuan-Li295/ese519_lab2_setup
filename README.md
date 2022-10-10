@@ -88,7 +88,11 @@ The default installation settings are pretty good for the purpose of this lab al
     ![alt text](https://github.com/Yuxuan-Li295/ese519_lab2_setup/blob/main/Media/PUTTY_SETTING.PNG)  
 **8. Flashing the board and running the "hello-usb.c".** <br />  
     
-For this step, we just connect our RP2040 Raspberry Pi Pico to the computer via the Micro-USB and hold down the **BOOTSEL** button so that the USB will be forced into the USB Mass Storage Mode. 
+For this step, we just connect our RP2040 Raspberry Pi Pico to the computer via the Micro-USB and hold down the **BOOTSEL** button so that the USB will be forced into the USB Mass Storage Mode.   
+After that, the board will appear as an external driver and we can just drag and drop the binary file named as the ‘hello_usb.uf2’. Then the USB will disappear as the external drive and start running the import flashed code and we can see the following things happen in puTTY:
+![alt text](https://github.com/Yuxuan-Li295/ese519_lab2_setup/blob/main/Media/Hello_World_Final_Setup.PNG)
+    
+    
     
 ## Setting Up a Text Editor
 
