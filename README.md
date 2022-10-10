@@ -76,7 +76,8 @@ Wait until the building process is completed(This may take some time...)
   
     
 **7. SERIAL CONSOLE – PUTTY.** <br />  
-    While not the most *powerful* serial port software, putty does a good job and is a handy tool(telnet and ssh) and in my setup process, I choose it as my serial console.  
+    While not the most *powerful* serial port software, putty does a good job and is a handy tool(telnet and ssh) and in my setup process, I choose it as my serial console.  Morover, I found the following link is extremly helpful as a guide to connect to RP2040's REPL via Windows(https://learn.adafruit.com/welcome-to-circuitpython/advanced-serial-console-on-windows).  
+    
     PUTTY can be assessed and download through [putty](https://www.putty.org/) and open up the installer once the download process is over. 
     ![alt text](https://github.com/Yuxuan-Li295/ese519_lab2_setup/blob/main/Media/PUTTY_INSTALLER.PNG)
     
