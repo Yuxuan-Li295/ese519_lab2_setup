@@ -104,9 +104,10 @@ Wait until the building process is completed(This may take some time...)
 The default installation settings are pretty good for the purpose of this lab already:  
     
     
-   ![alt text](https://github.com/Yuxuan-Li295/ese519_lab2_setup/blob/main/Media/PUTTY_INSTALL_DEFAULT.PNG)
+   ![alt text](https://github.com/Yuxuan-Li295/ese519_lab2_setup/blob/main/Media/PUTTY_INSTALL_DEFAULT.PNG)  
+   
     
-    The Windows Device Manager is the tool chosen to determine which port the board is using. As shown in the below picture, click on Ports(COM & LPT) option, we can see the (C0M#) number corresponding to your device(Remeber to put your device connect to your laptop via MicroUSB cable).  
+The Windows Device Manager is the tool chosen to determine which port the board is using. As shown in the below picture, click on Ports(COM & LPT) option, we can see the (C0M#) number corresponding to your device(Remeber to put your device connect to your laptop via MicroUSB cable).  
     
    ![alt text](https://github.com/Yuxuan-Li295/ese519_lab2_setup/blob/main/Media/Device_Connection.jpg)
    ![alt text](https://github.com/Yuxuan-Li295/ese519_lab2_setup/blob/main/Media/Device_Manager.PNG)  
@@ -121,7 +122,7 @@ After that, the board will appear as an external driver and we can just drag and
     As seen from the above graph, the button on the opposite end of the board from the USB connector is the RST button. To enter the bootloader and create the drive that name start with the RPI.  
     There are two methods listed as follows:  
 ###### Method 1: 
-To create that file we need to keep holding the 'BOOT'button in the plugging process of our USB and at the same time click the 'RESET' button for once.
+To create that file we need to keep holding the 'BOOT' button in the plugging process of our USB while holding it and at the same time click the 'RESET' button for once.
 ###### Method 2: 
 When plugging in, press and hold the BOOTSEL button (highlighted in red above),keep holding it while plugging it into USB, and wait for the drive to appear before releasing the button.  
     Then, we can see the RPI drive shows:
